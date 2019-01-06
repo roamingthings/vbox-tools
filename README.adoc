@@ -2,4 +2,4 @@
 
 This repository contains some tools to perform common tasks when working with VirtualBox:
 
-`vbox-create-vm`:: Create a virtual machine using common settings interactively or automatically.
+`vbox-createvm.sh`:: Create a virtual machine using common settings interactively or automatically.
